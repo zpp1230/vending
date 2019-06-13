@@ -1,1 +1,7 @@
 #测试Git
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vending_userInfo?useSSL=false
+    username: bguseradm
+    password: jiafeng20170573
