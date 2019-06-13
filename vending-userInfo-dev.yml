@@ -5,3 +5,4 @@ spring:
     url: jdbc:mysql://localhost:3306/vending_userInfo?useSSL=false
     username: bguseradm
     password: jiafeng20170573
+    type: com.zaxxer.hikari.HikariDataSource
