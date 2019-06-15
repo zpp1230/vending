@@ -3,6 +3,6 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:8066/EQUSER?useSSL=false
-    username: bguseradm
-    password: jiafeng20170573
+    username: root
+    password: master
     type: com.zaxxer.hikari.HikariDataSource
