@@ -2,6 +2,6 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://10.1.8.83:8066/jf_vmdb?useSSL=false
-    username: bguseradm
-    password: jiafeng20170573
+    username: '{cipher}cbb40e0015175d1698a3a0c6ee617d642993702301d737ff21e6916f0f310803'
+    password: '{cipher}8efb06bbb2d6bf03b209e0869c8f648abbb2407ff609e0725e62738b80f78504'
     type: com.zaxxer.hikari.HikariDataSource
